@@ -1,0 +1,22 @@
+                    -HC:\Cocos_2DX\TestSample
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=16
+-DANDROID_PLATFORM=android-16
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=C:\Users\fitra\AppData\Local\Android\Sdk\ndk\19.2.5345600
+-DCMAKE_ANDROID_NDK=C:\Users\fitra\AppData\Local\Android\Sdk\ndk\19.2.5345600
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\fitra\AppData\Local\Android\Sdk\ndk\19.2.5345600\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\fitra\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions -fsigned-char
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Cocos_2DX\TestSample\proj.android\app\build\intermediates\cxx\RelWithDebInfo\43457463\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Cocos_2DX\TestSample\proj.android\app\build\intermediates\cxx\RelWithDebInfo\43457463\obj\x86
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-BC:\Cocos_2DX\TestSample\proj.android\app\.cxx\RelWithDebInfo\43457463\x86
+-GNinja
+-DANDROID_STL=c++_static
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_ARM_NEON=TRUE
+                    Build command args: []
+                    Version: 2
